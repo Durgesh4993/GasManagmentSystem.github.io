@@ -1,2 +1,3 @@
 # GasManagmentSystem.github.io
-Gas Management System means Transporter's electronic communication system which shall be available to any Shipper and which is used for the purposes of Nominations, scheduling, reporting and other communications.
+Gas Management System means Transporter's electronic communication system which shall be available to any Shipper and which is used for the purposes of Nominations, scheduling, reporting and other communications.Names of anesthetic gases include: nitrous oxide, halothane, enflurane, isoflurane, desflurane, sevoflurane, and methoxyflurane (no longer used in the United States).
+The green color is used to alert the end-user that the tubing is used for oxygen supply. Based on this investigation, the CO believes that this incident is the result of user error, not product malfunction or performance.
